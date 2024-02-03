@@ -5,9 +5,13 @@ Deneyap Kart'ın sensörlerini kullanarak çevresel titreşimleri ölçmeyi ama�
 Deneyap Kart'ın sensörleri kullanılarak çevresel titreşimleri ölçerek bir bölgedeki deprem aktivitesini belirlemek.
 
 # Gereçler:
+
 *Deneyap Kart
+
 *USB Kablo
+
 *Buzzer
+
 *Led
 
 # Adımlar:
