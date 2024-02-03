@@ -1,3 +1,5 @@
+//Bu proje Deneyap Kart'ın dahili IMU(ivme ölçer-Jiroskop) sensörü kullanılarak yapılmıştır.
+
 #include "lsm6dsm.h"                                              // IMU kütüphanesi tanımlandı
 #include <DeneyapTelegram.h>                                      // Telegram kütüphanesi tanımlandı(sadece Deneyap Kart'lar ile çalışmaktadır)
 #define Wlanssid "************"                                   // Wifi Adı
