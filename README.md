@@ -17,7 +17,7 @@ Deneyap Kart'ın sensörleri kullanılarak çevresel titreşimleri ölçerek bir
 *Deneyap Mini kullanıyorsanız Deneyap 6 eksen Ölçüm birimi veya Deneyap 9 Eksen Ölçüm birimini kullanmanız gerekmektedir.
 # Adımlar:
 Deneyap Kart'ın Hazırlanması: Deneyap Kart'ı bilgisayar üzerine bağlayın ve Arduino IDE ortamını başlatın.
-Deneyap Kart üzerinde bulunan dahili imu(ivmeölçer ve jiroskop) sensörü ile harici sensöre ihtiyaç duyulmamaktadır.
+Deneyap Kart üzerinde bulunan dahili imu(ivmeölçer ve jiroskop) sensörü bulunmaktadır, harici sensöre ihtiyaç duyulmamaktadır.
 
 # Programlama:
 Verilen örnek kod ile projenizi kullanabilirsiniz. Ortamda bulunan wifi adı ve şifresi, Telegram ID numaranızı ve Oluşturduğunuz botun http API numarasını girmeyi unutmayınız.
