@@ -52,7 +52,7 @@ void loop() {
     if (millis() - timer1 > 100) {              // Her 100 ms de led ve buzzer'in durumu değişerek ses ve ışık yayması sağlandı
       timer1 = millis();
       light = !light;
-      tone(buzzer, 600);                        // buzzer kullandığınızda digitalWrite(buzzer, light); yazabilirsiniz.
+      tone(buzzer, 500);                        // buzzer kullandığınızda digitalWrite(buzzer, light); yazabilirsiniz.
       digitalWrite(led, light);
     }
   }
